@@ -100,5 +100,3 @@ export async function listFilesRecursively(targetDirectory: string): Promise<str
 
   return nested.flat().sort();
 }
-
-
