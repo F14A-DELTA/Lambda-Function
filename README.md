@@ -1,2 +1,2 @@
 # Lambda-Function
-Cron job -  Not in use yet, but useable code to fetch data from prior days
+Automated CRON job to test the [HuggingFace API](https://huggingface.co/spaces/a13awd/electricity_grid_model) every 12 hours using AWS EventBridge.
