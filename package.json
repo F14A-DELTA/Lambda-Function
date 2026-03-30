@@ -1,0 +1,8 @@
+{
+  "name": "prediction-testing-lambda",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@gradio/client": "^2.1.0"
+  }
+}
